@@ -12,3 +12,5 @@ Functions include
 - Setting the time manually or synced with the computer
 - Keeping the time with RTC
 - Modular design, allows multiple modules to be programmed in
+
+Youtube link [https://youtu.be/U6UG04Y6srQ]
